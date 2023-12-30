@@ -53,7 +53,10 @@ print (x)
 
 ## Output:
 (i) To find the L and U matrix
+![Screenshot 2023-12-30 173658](https://github.com/Saiguruchandran/LU-Decomposition/assets/144870946/d92d6c66-077d-43c7-9ae7-3872869ec030)
+
 (ii) To find the LU Decomposition of a matrix
+![Screenshot 2023-12-30 173719](https://github.com/Saiguruchandran/LU-Decomposition/assets/144870946/4a51be72-c095-467f-a745-aa6bb05817b2)
 
 
 ## Result:
