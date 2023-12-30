@@ -32,7 +32,8 @@ RegisterNumber:
 ```
 
 ## Output:
-![lu decomposition]()
+(i) To find the L and U matrix
+(ii) To find the LU Decomposition of a matrix
 
 
 ## Result:
